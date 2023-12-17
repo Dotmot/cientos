@@ -86,7 +86,7 @@
     "three": "^0.159.0",
     "tweakpane": "^3.1.10",
     "typescript": "^5.3.2",
-    "unocss": "^0.57.7",
+    "unocss": "^0.58.0",
     "vite": "^5.0.2",
     "vite-plugin-banner": "^0.7.1",
     "vite-plugin-dts": "3.6.3",
